@@ -1,7 +1,7 @@
 import React from 'react'
 
 const clock = () => {
-  return (
+  return (  
     <div className="clock">
       <div className="hand hour" data-hour-hand></div>
       <div className="hand minute" data-minute-hand></div>
